@@ -1,0 +1,79 @@
+.menu{
+    margin-left: 1800px;
+}
+.profile{
+    width: 45px;
+    height: 45px;
+    margin-left: 15px;
+    
+}
+.appsbutton{
+    width: 30px;
+    height: 30px;
+    padding-top: 25px;
+    margin-left: 23px;
+   
+    
+}
+.imagelink{
+    font-size: 16px;
+    padding-left: 15px;
+    text-decoration: none;
+    line-height: 40px;
+}
+.gmail{
+    font-size: 16px;
+    padding-left: 17px;
+    text-decoration: none;
+    line-height: 40px;
+}
+.googlepic{
+    text-align: center;
+}
+.aramacubuk{
+    text-align: center;
+    padding-top: 35px;
+}
+.text{
+    width: 630px;
+    height: 30px;
+    
+}
+.footer{
+   
+    width: 620px;
+    height: 40px;
+    margin: auto;
+    margin-top: 10px;
+}
+.button1{
+    width: 300px;
+    height: 40px;
+    float: right;
+    margin-left: 10px;
+    
+    
+}
+.button2{
+    width: 300px;
+    height: 40px;
+    float: right;
+    margin-right: 10px;  
+}
+.altbolum{
+bottom: 0px;
+position: fixed;
+}
+
+.altmenu{
+    float: left;
+    line-height: 50px;
+    list-style-type: none;
+    padding:0 110px;
+	
+
+}
+.list{
+    margin: auto;
+}
+
